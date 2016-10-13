@@ -1,4 +1,2 @@
 retest
 klaas!
-
-{ new class! }
