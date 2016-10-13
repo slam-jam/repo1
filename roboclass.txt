@@ -1,8 +1,6 @@
-roboclass!
-
-
-spaceborots!
-
-space++
-robot++
-space=7;
+roboclass
+{
+spaceborots++;
+space++;
+robot++;
+}
