@@ -2,3 +2,7 @@ roboclass!
 
 
 spaceborots!
+
+space++
+robot++
+space=7;
