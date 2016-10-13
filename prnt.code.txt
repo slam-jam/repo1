@@ -1,7 +1,7 @@
 Hello!
 klaas!
 
-ogogog
+ogogog;
 
 
-master!
+master!;
